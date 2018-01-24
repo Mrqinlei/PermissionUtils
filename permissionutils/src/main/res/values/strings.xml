@@ -1,0 +1,4 @@
+<resources>
+    <string name="permission_utils_title">动态权限申请</string>
+    <string name="permission_utils_message">当前app需要权限，不然无法正常工作。打开app设置界面去修改app权限</string>
+</resources>
