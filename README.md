@@ -17,7 +17,7 @@
 
 ```groovy
 	dependencies {
-		compile 'com.github.User:Repo:Tag'
+	        compile 'com.github.Mrqinlei:PermissionUtils:1.0.0'
 	}
 ```
 
